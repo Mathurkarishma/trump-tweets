@@ -1,6 +1,7 @@
 # Group project
+# Collaborated with Grant Lum, Vanessa Fotso, Brandon Clark at UMGC in 2020
 
-# Install packages if you have not done so yet
+# Install packages
 
 #install.packages("stringr")
 #install.packages('tm')
