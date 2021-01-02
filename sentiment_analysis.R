@@ -1,5 +1,5 @@
 # Group project
-# Collaborated with Grant Lum, Vanessa Fotso, Brandon Clark at UMGC in 2020
+# Collaborated with Grant Lum, Vanessa Fotso, Brandon Clark in 2020
 
 # Install packages
 
