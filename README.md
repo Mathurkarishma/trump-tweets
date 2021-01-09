@@ -78,7 +78,7 @@ The code guides you through the following:
 
 The top sentiments expressed by him were positivity and trustworthiness, which allowed him to build a strong and loyal base.  He was able to capitalize through them by using words in his tweets to create calls to action.  He followed the same word usage and patterning as the clusters generated from the analysis overlapped and had similar words captured in them.
 
-<img src="images/sentimemnt.JPG" alt="sentiment">
+<img src="images/sentiment.JPG" alt="sentiment">
 
 <!-- CONTACT -->
 ## Contact
