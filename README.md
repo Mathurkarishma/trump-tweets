@@ -92,5 +92,5 @@ Project Link: [https://github.com/Mathurkarishma/trump-tweets](https://github.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* Group Members:  Grant Lum, Vanessa Fotso, Brandon Clark </br>
+* Group Members:  Grant Lum, [Vanessa Fotso](https://github.com/vanessuniq), Brandon Clark </br>
 * Dr. Firdu Bati at [University of Maryland, Global Campus](https://www.umgc.edu/) - Fall 2019 </br >
