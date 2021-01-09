@@ -25,7 +25,7 @@ library('ggplot2')
 library(stringr)
 
 # read dataset
-trump_tweets <- read.csv("Donald-Trump_7375-Tweets-Excel.csv",head=TRUE, stringsAsFactors = FALSE)
+trump_tweets <- read.csv("donald_tweets.csv",head=TRUE, stringsAsFactors = FALSE)
 head(trump_tweets)
 str(trump_tweets)
 
