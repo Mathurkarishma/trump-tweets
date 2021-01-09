@@ -55,7 +55,7 @@ The aim of this study is to analyze Trump’s content message strategies and eva
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running, download the `decision-tree-model.R` and the text input file, `cmc.csv`. Then run the code in an IDE software, such as RStudio.  Set the working directory to the location of the CSV file.
+To get a local copy up and running, download the `sentiment_analysis.R` and the text input file, `donald_tweets.csv`. Then run the code in an IDE software, such as RStudio.  Set the working directory to the location of the CSV file.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
